@@ -1,0 +1,15 @@
+p {
+    margin-top: 15pc;
+    margin-left: 40pc;
+    background: black;
+    color: white;
+    width: 10px;
+}
+img#resim {
+    width: 23pc;
+    margin-left: 30pc;
+    border-radius: 20px;
+}
+body{
+    background-color: black;
+}
